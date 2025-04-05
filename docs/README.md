@@ -6,6 +6,7 @@ Este repositorio contiene el desarrollo completo del Caso de Uso 1 de la asignat
 
 ## 📁 Estructura del repositorio
 
+```
 METODOS_NUMERICOS/
 ├── Data/
 │   └── interpolacion_hermite.csv           → Tabla con nodos y valores interpolados con Hermite
@@ -21,7 +22,7 @@ METODOS_NUMERICOS/
 ├── Caso_1.xlsx                             → Datos experimentales proporcionados en el enunciado
 ├── requirements.txt                        → Lista de dependencias necesarias para ejecutar el código
 └── README.md                               → Este archivo
-
+```
 
 ---
 
